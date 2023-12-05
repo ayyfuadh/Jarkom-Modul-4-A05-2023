@@ -76,15 +76,15 @@ Dari pembuatan tree diatas yang digunakan untuk menentukan IP diperoleh output s
 ### Aura
 
 ```sql
-//A1
+ip-kelA1
 IPv4 Address  : 192.171.7.105
 Subnet Mask   : 255.255.255.252
 
-//A3
+ip-kelA3
 IPv4 Address  : 192.171.7.109
 Subnet Mask   : 255.255.255.252
 
-//A11
+ip-kelA11
 IPv4 Address  : 192.171.7.125
 Subnet Mask   : 255.255.255.252
 ```
@@ -92,10 +92,10 @@ Subnet Mask   : 255.255.255.252
 ### Denken
 
 ```sql
-//A1
+ip-kelA1
 IPv4 Address  : 192.171.7.106
 Subnet Mask   : 255.255.255.252
-//A2
+ip-kelA2
 IPv4 Address  : 192.171.8.1
 Subnet Mask   : 255.255.255.0
 ```
@@ -119,15 +119,15 @@ Subnet Mask       : 255.255.255.0
 ### Frieren
 
 ```sql
-//A3
+ip-kelA3
 IPv4 Address  : 192.171.7.110
 Subnet Mask   : 255.255.255.252
 
-//A4
+ip-kelA4
 IPv4 Address  : 192.171.7.161
 Subnet Mask   : 255.255.255.224
 
-//A5
+ip-kelA5
 IPv4 Address  : 192.171.7.113
 Subnet Mask   : 255.255.255.252
 ```
@@ -135,7 +135,7 @@ Subnet Mask   : 255.255.255.252
 ### LakeKorridor
 
 ```sql
-//A4
+ip-kelA4
 Default Gateaway  : 192.171.7.161
 IPv4 Address      : 192.171.7.162
 Subnet Mask       : 255.255.255.224
@@ -144,19 +144,19 @@ Subnet Mask       : 255.255.255.224
 ### Flamme
 
 ```sql
-//A5
+ip-kelA5
 IPv4 Address  : 192.171.7.114
 Subnet Mask   : 255.255.255.252
 
-//A6
+ip-kelA6
 IPv4 Address  : 192.171.7.117
 Subnet Mask   : 255.255.255.252
 
-//A8
+ip-kelA8
 IPv4 Address  : 192.171.16.1
 Subnet Mask   : 255.255.252.0
 
-//A9
+ip-kelA9
 IPv4 Address  : 192.171.7.121
 Subnet Mask   : 255.255.255.252
 ```
@@ -164,11 +164,11 @@ Subnet Mask   : 255.255.255.252
 ### Fern
 
 ```sql
-//A6
+ip-kelA6
 IPv4 Address  : 192.171.7.118
 Subnet Mask   : 255.255.255.252
 
-//A7
+ip-kelA7
 IPv4 Address  : 192.171.24.1
 Subnet Mask   : 255.255.248.0
 ```
@@ -176,7 +176,7 @@ Subnet Mask   : 255.255.248.0
 ### LaubHills
 
 ```sql
-//A7
+ip-kelA7
 Default Gateaway  : 192.171.24.1
 IPv4 Address      : 192.171.24.2
 Subnet Mask       : 255.255.248.0
@@ -185,7 +185,7 @@ Subnet Mask       : 255.255.248.0
 ### AppetitRegion
 
 ```sql
-//A7
+ip-kelA7
 Default Gateaway  : 192.171.24.1
 IPv4 Address      : 192.171.25.143
 Subnet Mask       : 255.255.248.0
@@ -194,7 +194,7 @@ Subnet Mask       : 255.255.248.0
 ### RohrRoad
 
 ```sql
-//A8
+ip-kelA8
 Default Gateaway  : 192.171.16.1
 IPv4 Address      : 192.171.16.2
 Subnet Mask       : 255.255.252.0
@@ -203,11 +203,11 @@ Subnet Mask       : 255.255.252.0
 ### Himmel
 
 ```sql
-//A9
+ip-kelA9
 IPv4 Address  : 192.171.7.122
 Subnet Mask   : 255.255.255.252
 
-//A10
+ip-kelA10
 IPv4 Address  : 192.171.7.145
 Subnet Mask   : 255.255.255.248
 
@@ -224,23 +224,23 @@ Subnet Mask       : 255.255.252.0
 ### Eisen
 
 ```sql
-//A11
+ip-kelA11
 IPv4 Address  : 192.171.7.126
 Subnet Mask   : 255.255.255.252
 
-//A12
+ip-kelA12
 IPv4 Address  : 192.171.7.129
 Subnet Mask   : 255.255.255.252
 
-//A13
+ip-kelA13
 IPv4 Address  : 192.171.7.153
 Subnet Mask   : 255.255.255.248
 
-//A14
+ip-kelA14
 IPv4 Address  : 192.171.7.133
 Subnet Mask   : 255.255.255.252
 
-//A17
+ip-kelA17
 IPv4 Address  : 192.171.7.137
 Subnet Mask   : 255.255.255.252
 ```
@@ -248,7 +248,7 @@ Subnet Mask   : 255.255.255.252
 ### Stark
 
 ```sql
-//A12
+ip-kelA12
 Default Gateaway  : 192.171.7.129
 IPv4 Address      : 192.171.7.130
 Subnet Mask       : 255.255.255.252
@@ -257,7 +257,7 @@ Subnet Mask       : 255.255.255.252
 ### Revolte
 
 ```sql
-//A13
+ip-kelA13
 Default Gateaway  : 192.171.7.153
 IPv4 Address      : 192.171.7.155
 Subnet Mask       : 255.255.255.248
@@ -266,7 +266,7 @@ Subnet Mask       : 255.255.255.248
 ### Ritcher
 
 ```sql
-//A13
+ip-kelA13
 Default Gateaway  : 192.171.7.153
 IPv4 Address      : 192.171.7.154
 Subnet Mask       : 255.255.255.248
@@ -275,15 +275,15 @@ Subnet Mask       : 255.255.255.248
 ### Lugner
 
 ```sql
-//A14
+ip-kelA14
 IPv4 Address  : 192.171.7.134
 Subnet Mask   : 255.255.255.252
 
-//A15
+ip-kelA15
 IPv4 Address  : 192.171.20.1
 Subnet Mask   : 255.255.252.0
 
-//A16
+ip-kelA16
 IPv4 Address  : 192.171.9.1
 Subnet Mask   : 255.255.255.0
 ```
@@ -291,7 +291,7 @@ Subnet Mask   : 255.255.255.0
 ### TurkRegion
 
 ```sql
-//15
+ip-kel15
 Default Gateaway  : 192.171.20.1
 IPv4 Address      : 192.171.20.2
 Subnet Mask       : 255.255.252.0
@@ -300,7 +300,7 @@ Subnet Mask       : 255.255.252.0
 ### GrobeForest
 
 ```sql
-//A16
+ip-kelA16
 Default Gateaway  : 192.171.9.1
 IPv4 Address      : 192.171.9.2
 Subnet Mask       : 255.255.255.0
@@ -309,15 +309,15 @@ Subnet Mask       : 255.255.255.0
 ### Linie
 
 ```sql
-//A17
+ip-kelA17
 IPv4 Address  : 192.171.7.138
 Subnet Mask   : 255.255.255.252
 
-//A18
+ip-kelA18
 IPv4 Address  : 192.171.10.1
 Subnet Mask   : 255.255.254.0
 
-//A19
+ip-kelA19
 IPv4 Address  : 192.171.7.141
 Subnet Mask   : 255.255.255.252
 ```
@@ -333,11 +333,11 @@ Subnet Mask       : 255.255.255.0
 ### Lawine
 
 ```sql
-//A19
+ip-kelA19
 IPv4 Address  : 192.171.7.142
 Subnet Mask   : 255.255.255.252
 
-//20
+ip-kel20
 IPv4 Address  : 192.171.7.193
 Subnet Mask   : 255.255.255.192
 ```
@@ -345,7 +345,7 @@ Subnet Mask   : 255.255.255.192
 ### BredtRegion
 
 ```sql
-//A20
+ip-kelA20
 Default Gateaway  : 192.171.7.193
 IPv4 Address      : 192.171.7.195
 Subnet Mask       : 255.255.255.192
@@ -354,11 +354,11 @@ Subnet Mask       : 255.255.255.192
 ### Heiter
 
 ```sql
-//A20
+ip-kelA20
 IPv4 Address  : 192.171.7.194
 Subnet Mask   : 255.255.255.192
 
-//21
+ip-kel21
 IPv4 Address  : 192.171.12.1
 Subnet Mask   : 255.255.252.0
 ```
@@ -366,7 +366,7 @@ Subnet Mask   : 255.255.252.0
 ### Sein
 
 ```sql
-//A21
+ip-kelA21
 Default Gateaway  : 192.171.12.1
 IPv4 Address      : 192.171.12.2
 Subnet Mask       : 255.255.252.0
@@ -375,7 +375,7 @@ Subnet Mask       : 255.255.252.0
 ### RiegelCanyon (A21)
 
 ```sql
-//A21
+ip-kelA21
 Default Gateaway  : 192.171.12.1
 IPv4 Address      : 192.171.12.3
 Subnet Mask       : 255.255.252.0
@@ -482,7 +482,7 @@ Subnet Mask       : 255.255.252.0
 
 ## Output
 
-![VLSM-output.png](images/vlsm-output.png)
+![VLSM-output.png](images/.png)
 
 # CIDR dengan menggunakan GNS3
 
@@ -1162,5 +1162,3 @@ nano /root/.bashrc
 ![output-CIDR](images/cidr-output2.png)
 ![output-CIDR](images/cidr-output3.png)
 ![output-CIDR](images/cidr-output4.png)
-#   J a r k o m - M o d u l - 4 - A 0 5 - 2 0 2 3 -  
- 

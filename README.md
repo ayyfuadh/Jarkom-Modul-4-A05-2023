@@ -75,27 +75,27 @@ Dari pembuatan tree diatas yang digunakan untuk menentukan IP diperoleh output s
 
 ### Aura
 
+ip-kel A1, A3, A11
+
 ```sql
-ip-kelA1
 IPv4 Address  : 192.171.7.105
 Subnet Mask   : 255.255.255.252
 
-ip-kelA3
 IPv4 Address  : 192.171.7.109
 Subnet Mask   : 255.255.255.252
 
-ip-kelA11
 IPv4 Address  : 192.171.7.125
 Subnet Mask   : 255.255.255.252
 ```
 
 ### Denken
 
+ip-kel A1, A2
+
 ```sql
-ip-kelA1
 IPv4 Address  : 192.171.7.106
 Subnet Mask   : 255.255.255.252
-ip-kelA2
+
 IPv4 Address  : 192.171.8.1
 Subnet Mask   : 255.255.255.0
 ```
@@ -118,24 +118,24 @@ Subnet Mask       : 255.255.255.0
 
 ### Frieren
 
+ip-kel A3, A4, A5
+
 ```sql
-ip-kelA3
 IPv4 Address  : 192.171.7.110
 Subnet Mask   : 255.255.255.252
 
-ip-kelA4
 IPv4 Address  : 192.171.7.161
 Subnet Mask   : 255.255.255.224
 
-ip-kelA5
 IPv4 Address  : 192.171.7.113
 Subnet Mask   : 255.255.255.252
 ```
 
 ### LakeKorridor
 
+ip-kel A4
+
 ```sql
-ip-kelA4
 Default Gateaway  : 192.171.7.161
 IPv4 Address      : 192.171.7.162
 Subnet Mask       : 255.255.255.224
@@ -143,40 +143,39 @@ Subnet Mask       : 255.255.255.224
 
 ### Flamme
 
+ip-kel A5, A6, A8, A9
+
 ```sql
-ip-kelA5
 IPv4 Address  : 192.171.7.114
 Subnet Mask   : 255.255.255.252
 
-ip-kelA6
 IPv4 Address  : 192.171.7.117
 Subnet Mask   : 255.255.255.252
 
-ip-kelA8
 IPv4 Address  : 192.171.16.1
 Subnet Mask   : 255.255.252.0
 
-ip-kelA9
 IPv4 Address  : 192.171.7.121
 Subnet Mask   : 255.255.255.252
 ```
 
 ### Fern
 
+ip-kel A6, A7
+
 ```sql
-ip-kelA6
 IPv4 Address  : 192.171.7.118
 Subnet Mask   : 255.255.255.252
 
-ip-kelA7
 IPv4 Address  : 192.171.24.1
 Subnet Mask   : 255.255.248.0
 ```
 
 ### LaubHills
 
+ip-kel A7
+
 ```sql
-ip-kelA7
 Default Gateaway  : 192.171.24.1
 IPv4 Address      : 192.171.24.2
 Subnet Mask       : 255.255.248.0
@@ -184,8 +183,9 @@ Subnet Mask       : 255.255.248.0
 
 ### AppetitRegion
 
+ip-kel A7
+
 ```sql
-ip-kelA7
 Default Gateaway  : 192.171.24.1
 IPv4 Address      : 192.171.25.143
 Subnet Mask       : 255.255.248.0
@@ -193,8 +193,9 @@ Subnet Mask       : 255.255.248.0
 
 ### RohrRoad
 
+ip-kel A8
+
 ```sql
-ip-kelA8
 Default Gateaway  : 192.171.16.1
 IPv4 Address      : 192.171.16.2
 Subnet Mask       : 255.255.252.0
@@ -202,18 +203,20 @@ Subnet Mask       : 255.255.252.0
 
 ### Himmel
 
+ip-kel A9, A10
+
 ```sql
-ip-kelA9
 IPv4 Address  : 192.171.7.122
 Subnet Mask   : 255.255.255.252
 
-ip-kelA10
 IPv4 Address  : 192.171.7.145
 Subnet Mask   : 255.255.255.248
 
 ```
 
-### SchwerMountains (A10)
+### SchwerMountains
+
+IP KEL A10
 
 ```sql
 Default Gateaway  : 192.171.7.145
@@ -223,32 +226,30 @@ Subnet Mask       : 255.255.252.0
 
 ### Eisen
 
+ip-kel A11, A12, A13, A14, A17
+
 ```sql
-ip-kelA11
 IPv4 Address  : 192.171.7.126
 Subnet Mask   : 255.255.255.252
 
-ip-kelA12
 IPv4 Address  : 192.171.7.129
 Subnet Mask   : 255.255.255.252
 
-ip-kelA13
 IPv4 Address  : 192.171.7.153
 Subnet Mask   : 255.255.255.248
 
-ip-kelA14
 IPv4 Address  : 192.171.7.133
 Subnet Mask   : 255.255.255.252
 
-ip-kelA17
 IPv4 Address  : 192.171.7.137
 Subnet Mask   : 255.255.255.252
 ```
 
 ### Stark
 
+ip-kel A12
+
 ```sql
-ip-kelA12
 Default Gateaway  : 192.171.7.129
 IPv4 Address      : 192.171.7.130
 Subnet Mask       : 255.255.255.252
@@ -256,8 +257,9 @@ Subnet Mask       : 255.255.255.252
 
 ### Revolte
 
+ip-kel A13
+
 ```sql
-ip-kelA13
 Default Gateaway  : 192.171.7.153
 IPv4 Address      : 192.171.7.155
 Subnet Mask       : 255.255.255.248
@@ -265,8 +267,9 @@ Subnet Mask       : 255.255.255.248
 
 ### Ritcher
 
+ip-kel A13
+
 ```sql
-ip-kelA13
 Default Gateaway  : 192.171.7.153
 IPv4 Address      : 192.171.7.154
 Subnet Mask       : 255.255.255.248
@@ -274,24 +277,24 @@ Subnet Mask       : 255.255.255.248
 
 ### Lugner
 
+ip-kel A14, A15, A16
+
 ```sql
-ip-kelA14
 IPv4 Address  : 192.171.7.134
 Subnet Mask   : 255.255.255.252
 
-ip-kelA15
 IPv4 Address  : 192.171.20.1
 Subnet Mask   : 255.255.252.0
 
-ip-kelA16
 IPv4 Address  : 192.171.9.1
 Subnet Mask   : 255.255.255.0
 ```
 
 ### TurkRegion
 
+ip-kel A15
+
 ```sql
-ip-kel15
 Default Gateaway  : 192.171.20.1
 IPv4 Address      : 192.171.20.2
 Subnet Mask       : 255.255.252.0
@@ -299,8 +302,9 @@ Subnet Mask       : 255.255.252.0
 
 ### GrobeForest
 
+ip-kel A16
+
 ```sql
-ip-kelA16
 Default Gateaway  : 192.171.9.1
 IPv4 Address      : 192.171.9.2
 Subnet Mask       : 255.255.255.0
@@ -308,16 +312,15 @@ Subnet Mask       : 255.255.255.0
 
 ### Linie
 
+ip-kel A17, A18, A19
+
 ```sql
-ip-kelA17
 IPv4 Address  : 192.171.7.138
 Subnet Mask   : 255.255.255.252
 
-ip-kelA18
 IPv4 Address  : 192.171.10.1
 Subnet Mask   : 255.255.254.0
 
-ip-kelA19
 IPv4 Address  : 192.171.7.141
 Subnet Mask   : 255.255.255.252
 ```
@@ -332,20 +335,21 @@ Subnet Mask       : 255.255.255.0
 
 ### Lawine
 
+ip-kel A19, A20
+
 ```sql
-ip-kelA19
 IPv4 Address  : 192.171.7.142
 Subnet Mask   : 255.255.255.252
 
-ip-kel20
 IPv4 Address  : 192.171.7.193
 Subnet Mask   : 255.255.255.192
 ```
 
 ### BredtRegion
 
+ip-kel A20
+
 ```sql
-ip-kelA20
 Default Gateaway  : 192.171.7.193
 IPv4 Address      : 192.171.7.195
 Subnet Mask       : 255.255.255.192
@@ -353,20 +357,21 @@ Subnet Mask       : 255.255.255.192
 
 ### Heiter
 
+ip-kel A20, A21
+
 ```sql
-ip-kelA20
 IPv4 Address  : 192.171.7.194
 Subnet Mask   : 255.255.255.192
 
-ip-kel21
 IPv4 Address  : 192.171.12.1
 Subnet Mask   : 255.255.252.0
 ```
 
 ### Sein
 
+ip-kel A21
+
 ```sql
-ip-kelA21
 Default Gateaway  : 192.171.12.1
 IPv4 Address      : 192.171.12.2
 Subnet Mask       : 255.255.252.0
@@ -374,8 +379,9 @@ Subnet Mask       : 255.255.252.0
 
 ### RiegelCanyon (A21)
 
+ip-kel A21
+
 ```sql
-ip-kelA21
 Default Gateaway  : 192.171.12.1
 IPv4 Address      : 192.171.12.3
 Subnet Mask       : 255.255.252.0

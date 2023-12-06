@@ -488,7 +488,13 @@ Subnet Mask       : 255.255.252.0
 
 ## Output
 
-![VLSM-output.png](images/.png)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/vlsm-output.png?raw=true)
+
+## Output Demo VLSM
+
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%20vlsm1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%20vlsm2.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%20vlsm3.png?raw=true)
 
 # CIDR dengan menggunakan GNS3
 
@@ -1168,3 +1174,9 @@ nano /root/.bashrc
 ![output-CIDR](images/cidr-output2.png)
 ![output-CIDR](images/cidr-output3.png)
 ![output-CIDR](images/cidr-output4.png)
+
+## Output Demo CIDR
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo1.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%202.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%203.png?raw=true)
+![alt text](https://github.com/ayyfuadh/Jarkom-Modul-4-A05-2023/blob/main/images/output%20demo%204.png?raw=true)
